@@ -47,6 +47,10 @@ a {
   margin-left: 10px;
 }
 
+.socialmedia .icon {
+  margin-right: 10px;
+}
+
 .footerBelow {
   display: flex;
   justify-content: center;
