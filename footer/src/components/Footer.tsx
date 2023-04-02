@@ -19,12 +19,12 @@ const Footer = (props: Props) => {
             <div className={styles.footerLinksDiv}>
               <h4>Connect</h4>
               <div className={styles.socialmedia}>
-                <a href="">
+                <a href="https://www.linkedin.com">
                   <BsLinkedin className={styles.icon} />
                   LinkedIn
                 </a>
 
-                <a href="">
+                <a href="https://github.com/">
                   <BsGithub className={styles.icon} />
                   GitHub
                 </a>
